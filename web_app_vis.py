@@ -4,7 +4,7 @@ import os
 from task_1 import GenerateVolatilityGrids
 from task_2 import VisualiseCarryPerTenor
 
-
+os.system("playwright install chromium")
 st.set_page_config(page_title="data visualiser", layout="wide")
 
 # Custom Styling
