@@ -3,3 +3,4 @@ dataframe_image
 pillow
 matplotlib.colors
 streamlit
+chromium
