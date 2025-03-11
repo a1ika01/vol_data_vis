@@ -3,4 +3,5 @@ dataframe_image
 pillow
 matplotlib.colors
 streamlit
-playwright install chromium
+playwright
+chromium
